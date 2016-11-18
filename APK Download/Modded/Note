@@ -1,0 +1,15 @@
+[無敵]
+player::damage
+70 47
+
+[無限MP]
+BattleUnit::getMp
+5F F4 80 20 70 47
+
+[高傷害]
+BattleUnit::calcDamagePoint
+F3 EE 0F 7A 67 EE A7 7A 67 EE A7 7A 17 EE 90 0A 70 47
+PS: VMOV.F32	S15, (#immF) immF可改，只可以是整數
+
+
+*Check "EventHighScore::" Return Data
