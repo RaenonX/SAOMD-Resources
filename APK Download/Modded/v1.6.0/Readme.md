@@ -5,3 +5,4 @@
 |`ADF`|Absolute DeFense|無敵|
 |`ADM`|Absolute DeFense, Full MP|無敵/滿MP, 歐尼醬傑作|
 |`DP`|Direct Pass|直接通關(零秒)|
+|`WAD`|Weak, Absolute DeFense|弱化/無敵|
